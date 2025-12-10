@@ -1,4 +1,4 @@
-## SkyPath — U.S. Airline Route & Emissions Optimizer
+# SkyPath — U.S. Airline Route & Emissions Optimizer
 SkyPath is an interactive flight route planner that finds optimal and eco-friendly paths between U.S. airports.
 The program combines three Bureau of Transportation Statistics (BTS) datasets:
 
@@ -32,4 +32,3 @@ Project and data README can be found in readme_txt folder
 
 This is the link to demo video: [https://www.youtube.com/watch?v=gFU2w6CaucA](https://www.youtube.com/watch?v=gFU2w6CaucA)
 
-# SkyPath-U.S.-Airline-Route-and-Emissions-Optimizer
